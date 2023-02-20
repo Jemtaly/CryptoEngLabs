@@ -1,4 +1,4 @@
-# CryptographicEngineering
+# Cryptographic Engineering Labs
 
 山东大学 2022-2023 学年第一学期密码工程学实验作业汇总。
 
