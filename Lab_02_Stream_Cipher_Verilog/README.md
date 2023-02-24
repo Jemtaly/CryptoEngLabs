@@ -175,4 +175,4 @@ Ciphertext:
 45 a0 1f 64 5f c3 5b 38 35 52 54 4b 9b f5
 ```
 
-&emsp;&emsp;可以看到，仿真结果与预期结果一致。
+&emsp;&emsp;可以看到，仿真结果与[预期](https://en.wikipedia.org/wiki/RC4#Test_vectors)结果一致。
